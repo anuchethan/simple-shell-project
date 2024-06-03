@@ -1,1 +1,1 @@
-# simple-shell-project
+# shell-project-open-source
